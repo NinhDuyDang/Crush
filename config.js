@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Love Hoàng Linh",
     introTitle: 'Trà đào cam xả xinh đẹp',
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    title: 'Phải chăng em đã yêu anh  ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy anh ',
     btnYes: 'Yêu <33',
     btnNo: 'Không yêu',
